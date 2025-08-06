@@ -30,14 +30,14 @@ Coca-Cola/
 
 ## 🚀 Features
 
-- 📊 **Stock Data Analysis**: Interactive historical data exploration
+- 📊 **Stock Data Analysis**: Interactive historical data exploration  
 - 🤖 **Machine Learning Models**: Predicts future stock prices using:
   - Linear Regression
   - Decision Tree
   - Random Forest
   - Support Vector Machine (SVM)
   - Long Short-Term Memory (LSTM)
-- 📈 **Visualization**: Matplotlib & Plotly-based charts
+- 📈 **Visualization**: Matplotlib & Plotly-based charts  
 - 🌐 **Live Data**: Fetches latest Coca-Cola stock prices from Yahoo Finance
 
 ---
@@ -45,12 +45,14 @@ Coca-Cola/
 ## 🛠️ How to Run Locally
 
 1. **Clone the repository**
-```bash
-git clone https://github.com/Laxmi249/coca-cola-stock-predictor.git
-cd coca-cola-stock-predictor/Model
+   ```bash
+   git clone https://github.com/Laxmi249/coca-cola-stock-predictor.git
+   cd coca-cola-stock-predictor/Model
 
 2. **Install dependencies**
 pip install -r requirements.txt
+
+---
 
 3. **Run the app**
 streamlit run app.py
