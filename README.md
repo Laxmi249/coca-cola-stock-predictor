@@ -55,9 +55,13 @@ pip install -r requirements.txt
 3. **Run the app**
 streamlit run app.py
 
+---
+
 ## 📚 Dataset
 
 The stock data is downloaded from Yahoo Finance using the yfinance library.
+
+---
 
 ## 📓 Notebooks
 The folder Jupyter Analysis/ contains:
@@ -65,6 +69,8 @@ The folder Jupyter Analysis/ contains:
 📘 Coca Cola Stock Analysis.ipynb: Full exploratory data analysis (EDA) of Coca-Cola's stock.
 
 📄 PDF version also included for easy viewing.
+
+---
 
 ## 🧠 Models Used
 All models were trained and tested on the Coca-Cola stock dataset:
@@ -74,6 +80,8 @@ Linear Regression               	Baseline model for trend analysis
 Decision Tree	                    Non-linear decision-based prediction
 Random Forest	                    Ensemble of decision trees
 Support Vector Machine (SVM)	     Works well for linear and non-linear data
+
+---
 
 ## 📦 Requirements
 Key dependencies listed in requirements.txt:
@@ -92,10 +100,14 @@ plotly
 
 tensorflow (for LSTM)
 
+---
+
 ## 🧑‍💻 Author
 Laxmi Sheoran
 📍 Bhiwani, Haryana
 🔗 LinkedIn  [https://www.linkedin.com/in/laxmi-sheoran-9b0813276/]
 📬 Aspirant Data Analyst with strong passion in predictive analytics and visualization
+
+---
 
 ## ⭐ If you like this project, consider giving it a star on GitHub! ⭐
