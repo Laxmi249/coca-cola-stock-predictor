@@ -2,7 +2,7 @@
 
 This project is a machine learning web application that predicts the future stock price of Coca-Cola (Ticker: KO) using various models such as Linear Regression, Decision Tree, Random Forest, Support Vector Machine (SVM), and LSTM. The application is built with Streamlit and is deployed for public use.
 
-🔗 **Live Demo**: [Click here to view the deployed app](https://laxmi249-coca-cola-stock-predictor-app-3zs8ml.streamlit.app/)
+🔗 **Live Demo**: [Click here to view the deployed app](https://laxmi249-coca-cola-stock-predictor-modelapp-cxyrgq.streamlit.app/)
 
 ---
 
